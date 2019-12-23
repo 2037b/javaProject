@@ -1,4 +1,4 @@
-package javaCode.javaBasics;
+package org.zjl_.basicSyntax;
 /*如果在通过nextInt()读取了整数后，再接着读取字符串，读出来的是回车换行:"\r\n",
 因为nextInt仅仅读取数字信息，而不会读取回车换行"\r\n".
 所以，如果在业务上需要读取了整数后，接着读取字符串，

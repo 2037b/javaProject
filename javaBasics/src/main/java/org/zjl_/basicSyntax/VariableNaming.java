@@ -1,4 +1,4 @@
-package javaCode.javaBasics;
+package org.zjl_.basicSyntax;
 
 public class VariableNaming {
     /*变量命名只能使用字母 数字 $ _

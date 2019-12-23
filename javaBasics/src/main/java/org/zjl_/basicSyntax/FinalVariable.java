@@ -1,4 +1,4 @@
-package javaCode.javaBasics;
+package org.zjl_.basicSyntax;
 
 public class FinalVariable {
 //    final在方法外只能修饰常量，方法外不能使用final，除非添加构造器；

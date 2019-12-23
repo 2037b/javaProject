@@ -1,4 +1,4 @@
-package javaCode.javaBasics;
+package org.zjl_.basicSyntax;
 
 public class Expression {
     //    语句statement和表达式expression

@@ -1,4 +1,4 @@
-package javaCode.javaBasics;
+package org.zjl_.basicSyntax;
 
 public class Scope {
     int i = 2;

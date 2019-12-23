@@ -1,4 +1,4 @@
-package javaCode.javaBasics;
+package org.zjl_.basicSyntax;
 
 public class LiteralConstant {
     //  字面值、字面量

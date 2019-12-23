@@ -1,4 +1,4 @@
-package javaCode.javaBasics;
+package org.zjl_.basicSyntax;
 
 public class TypeConversion {
 //    对于简单类型变量，是无法直接获得变量类型的；
