@@ -1,3 +1,7 @@
+JDBC API : 供程序员调用的接口与类，集成在java.sql和javax.sql包中(四大类)  
+DriverManager : 载入各种不同的JDBC驱动  
+JDBC驱动 ： 由数据库厂商提供，负责与各自的数据库建立连接
+
 # stuTable/
 在 库jdbc 下的 表student 上进行CRUD操作
 

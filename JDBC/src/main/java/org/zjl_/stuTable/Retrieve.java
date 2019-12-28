@@ -25,7 +25,7 @@ public class Retrieve {
       // 在取第二列的数据的时候，用的是rs.get(2) ，而不是get(1).
       // 这个是整个Java自带的api里唯二的地方，使用 基1 的，即2就代表第二个。
       while (rs.next()) {
-        // next()  返回一整行数据，逐行返回
+        // next()  表中的数据 逐行 依次存储在ResultSet中， .next()方法返回boolean值
         int stuId = rs.getInt("stuId");     // 可以用 字段名
         String stuName = rs.getString(2);   // 也可以用 字段顺序
         float score = rs.getFloat("score");
