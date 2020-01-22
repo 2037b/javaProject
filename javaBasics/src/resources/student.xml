@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<students>
-    <student id="302"><name>Jerry</name><age>18</age><address>New York</address></student>
-    <student id="303"><name>Williams</name><age>20</age><address>San Francisco</address></student>
-    <student id="304"><name>Leonard</name><age>26</age><address>Brooklyn</address></student>
-</students>
